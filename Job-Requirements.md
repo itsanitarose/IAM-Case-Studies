@@ -7,11 +7,13 @@ Each weekly matrix links job requirements to the work completed.
 
 ## Weekly Requirements Matrices
 
+
 | Week | Assignment | Requirements Matrix |
-|:-----|:-----------|:--------------------|
-| 01 | User Access Review | [View matrix](https://github.com/itsanitarose/IAM-Access-Review/blob/main/IAM%20Job%20Requirements%20Map.md) |
-| 02 | Permission Sprawl & RBAC | [View matrix](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC/blob/main/IAM%20Job%20Requirements%20Map.md) |
-| 03 | AI Agent Security Review | [View matrix](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review/blob/main/IAM%20Job%20Requirements%20Map.md) |
+|---|---|---|
+| 01 | User Access Review | [View matrix](...) |
+| 02 | Permission Sprawl & RBAC | [View matrix](...) |
+| 03 | AI Agent Security Review | [View matrix](...) |
+| 04 | MFA Recovery & Identity Verification | [View matrix](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery/blob/main/IAM%20Job%20Requirements%20Map.md) |
 
 New matrices are added as the project progresses.
 
