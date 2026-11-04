@@ -1,8 +1,9 @@
 ## Overview
 
-This project was developed by **reverse-engineering** common requirements found in entry-level and junior Identity and Access Management (IAM) job descriptions.
+This project was developed by analysing common requirements found in entry level and junior Identity and Access Management (IAM) job descriptions.
 
 Each weekly matrix links job requirements to the work completed.
+
 
 ## Weekly Requirements Matrices
 
