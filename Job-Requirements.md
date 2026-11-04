@@ -13,7 +13,7 @@ Each weekly matrix links job requirements to the work completed.
 | 01 | User Access Review | [View matrix](...) |
 | 02 | Permission Sprawl & RBAC | [View matrix](...) |
 | 03 | AI Agent Security Review | [View matrix](...) |
-| 04 | MFA Recovery & Identity Verification | [View matrix](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery/blob/main/IAM%20Job%20Requirements%20Map.md) |
+| 04 | MFA Recovery & Identity Verification | [View matrix](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery/blob/main/IAM%20Job%20Requirement%20Map.md) |
 
 New matrices are added as the project progresses.
 
