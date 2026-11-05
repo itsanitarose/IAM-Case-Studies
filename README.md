@@ -14,6 +14,7 @@ Each ticket is its own repository. This page tracks the series.
 | 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Assessment complete |
 | 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Assessment complete |
 | 04 | [MFA&nbsp;Recovery&nbsp;&amp;&nbsp;Identity&nbsp;Verification](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery) | Assessment complete |
+| 05 | [SAML SSO Troubleshooting](https://github.com/itsanitarose/IAM-SAML-SSO-Troubleshooting) | In progress |
 
 *New tickets are added weekly.*
 
