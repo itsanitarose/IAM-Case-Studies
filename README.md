@@ -2,7 +2,12 @@
 
 **One IAM ticket a week.**
 
-This series follows my work as an IAM analyst at a fictional company. Each ticket starts with a business request. I document my investigation, recommendations, and any implementation and testing as the work progresses.
+
+This series follows my work as an IAM analyst at a *fictional* company.<br>
+**Northwind Health** is a 120-person US healthcare SaaS company storing patient data (ePHI) for ~400 clinics.
+
+
+Each ticket starts with a business request. I document my investigation, recommendations, and any implementation and testing as the work progresses.
 
 ## Tickets
 
