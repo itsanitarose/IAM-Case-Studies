@@ -13,18 +13,22 @@ Each ticket starts with a business request. I document my investigation, recomme
 
 Each ticket is its own repository. This page tracks the series.
 
-| Week | Ticket | Status |
-|:-----|:-------|:-------|
-| 01 | [User Access Review ](https://github.com/itsanitarose/IAM-Access-Review) | Assessment complete |
-| 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Assessment complete |
-| 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Assessment complete |
-| 04 | [MFA&nbsp;Recovery&nbsp;&amp;&nbsp;Identity&nbsp;Verification](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery) | Assessment complete |
-| 05 | [SAML SSO Troubleshooting](https://github.com/itsanitarose/IAM-SAML-SSO-Troubleshooting) | Assessment complete  |
-| 06 | [RBAC Role Redesign](https://github.com/itsanitarose/RBAC-Role-Redesign) | Assessment complete |
+| Week | Ticket | Started | Status |
+|:-----|:-------|:-------|:-------|
+| 01 | [User Access Review ](https://github.com/itsanitarose/IAM-Access-Review) |   5 Oct   |Closed |
+| 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) |   12 Oct   |Closed |
+| 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) |    19 Oct  |Closed |
+| 04 | [MFA&nbsp;Recovery&nbsp;&amp;&nbsp;Identity&nbsp;Verification](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery) |   26 Oct   | Closed |
+| 05 | [SAML SSO Troubleshooting](https://github.com/itsanitarose/IAM-SAML-SSO-Troubleshooting) |    2 Nov   | Closed  |
+| 06 | [RBAC Role Redesign](https://github.com/itsanitarose/RBAC-Role-Redesign) |   9 Nov  | Closed |
+| 07 |  Sign-in Policy Review  |   16 Nov  | In Triage|
 
 <BR>
 
-*New tickets are added weekly.*
+Currently working on: Sign in Policy Review — reviewing sign-in logs and identifying gaps in the current access rules.
+
+
+*New tickets are added weekly.**
 
 ---
 
