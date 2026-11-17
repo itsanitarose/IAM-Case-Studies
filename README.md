@@ -15,7 +15,7 @@ Each ticket is its own repository. This page tracks the series.
 
 | Week | Ticket | Status |
 |:-----|:-------|:-------|
-| 01 | [User Access Reviw ](https://github.com/itsanitarose/IAM-Access-Review) | Assessment complete |
+| 01 | [User Access Review ](https://github.com/itsanitarose/IAM-Access-Review) | Assessment complete |
 | 02 | [Permission Sprawl & RBAC](https://github.com/itsanitarose/IAM-Permission-Sprawl-RBAC) | Assessment complete |
 | 03 | [AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) | Assessment complete |
 | 04 | [MFA&nbsp;Recovery&nbsp;&amp;&nbsp;Identity&nbsp;Verification](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery) | Assessment complete |
