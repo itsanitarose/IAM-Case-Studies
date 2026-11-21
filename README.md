@@ -25,8 +25,7 @@ Each ticket is its own repository. This page tracks the series.
 
 <BR>
 
-Currently working on: Sign in Policy Review — reviewing sign-in logs and identifying gaps in the current access rules.
-
+Currently working on: SSign-in Triage & Policy Design
 
 *New tickets are added weekly.**
 
