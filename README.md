@@ -25,7 +25,6 @@ Each ticket is its own repository. This page tracks the series.
 
 <BR>
 
-**Currently working on:** Sign-in Triage & Policy Design
 
 *New tickets are added weekly.**
 
