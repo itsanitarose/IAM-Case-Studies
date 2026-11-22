@@ -21,7 +21,7 @@ Each ticket is its own repository. This page tracks the series.
 | 04 | [MFA&nbsp;Recovery&nbsp;&amp;&nbsp;Identity&nbsp;Verification](https://github.com/itsanitarose/IAM-Social-Engineering-MFA-Recovery) |   26 Oct   | Closed |
 | 05 | [SAML SSO Troubleshooting](https://github.com/itsanitarose/IAM-SAML-SSO-Troubleshooting) |    2 Nov   | Closed  |
 | 06 | [RBAC Role Redesign](https://github.com/itsanitarose/RBAC-Role-Redesign) |   9 Nov  | Closed |
-| 07 | [Sign-in Triage & Policy Design](https://github.com/itsanitarose/Sign-in-Policy-Review) | 16 Nov | In Triage |
+| 07 | [Sign-in Triage & Policy Design](https://github.com/itsanitarose/Sign-in-Policy-Review) | 16 Nov | Closed |
 
 <BR>
 
