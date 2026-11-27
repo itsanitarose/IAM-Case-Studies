@@ -22,6 +22,7 @@ Each ticket is its own repository. This page tracks the series.
 | 05 | [SAML SSO Troubleshooting](https://github.com/itsanitarose/IAM-SAML-SSO-Troubleshooting) |    2 Nov   | Closed  |
 | 06 | [RBAC Role Redesign](https://github.com/itsanitarose/RBAC-Role-Redesign) |   9 Nov  | Closed |
 | 07 | [Sign-in Triage & Policy Design](https://github.com/itsanitarose/Sign-in-Policy-Review) | 16 Nov | Closed |
+| 08 | [Third-Party App Review](https://github.com/itsanitarose/Third-Party-App-Review) | 23 Nov | Closed |
 
 <BR>
 
